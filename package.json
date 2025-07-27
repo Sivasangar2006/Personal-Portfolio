@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Sivasangar2006.github.io/Personal-Portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
